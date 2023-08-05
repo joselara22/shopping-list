@@ -191,8 +191,6 @@ const checkUI = () => {
   isEditMode = false;
 };
 
-const hello = "hello";
-
 // Initialize app
 const init = () => {
   // Event Listeners
